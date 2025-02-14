@@ -1,6 +1,6 @@
 {
   "name": "@azure-rest/microsoft-aiforsciencecatalog-rest",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Microsoft.AiForScienceCatalog Service",
   "engines": {
     "node": ">=18.0.0"

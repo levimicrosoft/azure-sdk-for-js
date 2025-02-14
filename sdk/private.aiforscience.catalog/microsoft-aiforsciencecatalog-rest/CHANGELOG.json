@@ -1,0 +1,17 @@
+{
+  "name": "@azure-rest/microsoft-aiforsciencecatalog-rest",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "tag": "@azure-rest/microsoft-aiforsciencecatalog-rest_v1.0.0",
+      "date": "Fri, 14 Feb 2025 21:46:06 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Initial Upload"
+          }
+        ]
+      }
+    }
+  ]
+}
