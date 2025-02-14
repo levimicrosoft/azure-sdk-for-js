@@ -2,6 +2,18 @@
   "name": "@azure-rest/microsoft-aiforscienceworkspace-rest",
   "entries": [
     {
+      "version": "1.0.1",
+      "tag": "@azure-rest/microsoft-aiforscienceworkspace-rest_v1.0.1",
+      "date": "Fri, 14 Feb 2025 23:55:33 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Try actually uploading the code :)"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.0",
       "tag": "@azure-rest/microsoft-aiforscienceworkspace-rest_v1.0.0",
       "date": "Fri, 14 Feb 2025 22:44:33 GMT",

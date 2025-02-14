@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@azure-rest/microsoft-aiforsciencecatalog-rest",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@azure-rest/microsoft-aiforsciencecatalog-rest"
+}
