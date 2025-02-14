@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@azure-rest/microsoft-aiforsciencecatalog-rest",
+      "comment": "Initial Upload",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@azure-rest/microsoft-aiforsciencecatalog-rest"
+}
