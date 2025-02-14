@@ -1,0 +1,5 @@
+directory: specification/aiforsciencedev/AiForScience.Workspace
+commit: ed37d381d13770efd03c987b9a1b930fbd216fb1
+repo: Azure/azure-rest-api-specs-pr
+additionalDirectories: 
+  - specification/aiforsciencedev/AiForScience.Shared

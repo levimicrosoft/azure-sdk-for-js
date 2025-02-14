@@ -2331,6 +2331,11 @@
       "packageName": "@azure-rest/microsoft-aiforsciencecatalog-rest",
       "projectFolder": "sdk/private.aiforscience.catalog/microsoft-aiforsciencecatalog-rest",
       "versionPolicyName": "client"
+    },
+    {
+      "packageName": "@azure-rest/microsoft-aiforscienceworkspace-rest",
+      "projectFolder": "sdk/private.aiforscience.workspace/microsoft-aiforscienceworkspace-rest",
+      "versionPolicyName": "client"
     }
   ]
 }
