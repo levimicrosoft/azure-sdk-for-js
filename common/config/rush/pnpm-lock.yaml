@@ -1030,6 +1030,9 @@ importers:
       '@rush-temp/microsoft-aiforsciencecatalog-rest':
         specifier: file:./projects/microsoft-aiforsciencecatalog-rest.tgz
         version: file:projects/microsoft-aiforsciencecatalog-rest.tgz(msw@2.7.0(@types/node@22.7.9)(typescript@5.7.3))(vite@5.4.14(@types/node@22.7.9))
+      '@rush-temp/microsoft-aiforscienceworkspace-rest':
+        specifier: file:./projects/microsoft-aiforscienceworkspace-rest.tgz
+        version: file:projects/microsoft-aiforscienceworkspace-rest.tgz(msw@2.7.0(@types/node@22.7.9)(typescript@5.7.3))(vite@5.4.14(@types/node@22.7.9))
       '@rush-temp/microsoft-playwright-testing':
         specifier: file:./projects/microsoft-playwright-testing.tgz
         version: file:projects/microsoft-playwright-testing.tgz
@@ -3975,6 +3978,10 @@ packages:
 
   '@rush-temp/microsoft-aiforsciencecatalog-rest@file:projects/microsoft-aiforsciencecatalog-rest.tgz':
     resolution: {integrity: sha512-+kg5qtN089pg52mPQI2SnJdskPt4sNJ8wn2I/4WW7Cy8jCbBLSIyhSDO9wat71J3iHOQ/7pkokN8SLmXh3IDMg==, tarball: file:projects/microsoft-aiforsciencecatalog-rest.tgz}
+    version: 0.0.0
+
+  '@rush-temp/microsoft-aiforscienceworkspace-rest@file:projects/microsoft-aiforscienceworkspace-rest.tgz':
+    resolution: {integrity: sha512-njqtP/l7I+EldmiQbKPrhJfq1lozenal8NYAtM4DK7FDLvCqAJcvadGxzIXLIVyiIczV3JAVP4KFHh+/JKmldg==, tarball: file:projects/microsoft-aiforscienceworkspace-rest.tgz}
     version: 0.0.0
 
   '@rush-temp/microsoft-playwright-testing@file:projects/microsoft-playwright-testing.tgz':
@@ -20942,6 +20949,39 @@ snapshots:
       - yaml
 
   '@rush-temp/microsoft-aiforsciencecatalog-rest@file:projects/microsoft-aiforsciencecatalog-rest.tgz(msw@2.7.0(@types/node@22.7.9)(typescript@5.7.3))(vite@5.4.14(@types/node@22.7.9))':
+    dependencies:
+      '@microsoft/api-extractor': 7.49.2(@types/node@18.19.75)
+      '@types/node': 18.19.75
+      '@vitest/browser': 2.1.9(@types/node@18.19.75)(playwright@1.50.1)(typescript@5.6.3)(vite@5.4.14(@types/node@22.7.9))(vitest@2.1.9)
+      '@vitest/coverage-istanbul': 2.1.9(vitest@2.1.9)
+      dotenv: 16.4.7
+      eslint: 9.20.0
+      playwright: 1.50.1
+      tslib: 2.8.1
+      typescript: 5.6.3
+      vitest: 2.1.9(@types/node@18.19.75)(@vitest/browser@2.1.9)(msw@2.7.0(@types/node@22.7.9)(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@edge-runtime/vm'
+      - '@vitest/ui'
+      - bufferutil
+      - happy-dom
+      - jiti
+      - jsdom
+      - less
+      - lightningcss
+      - msw
+      - safaridriver
+      - sass
+      - sass-embedded
+      - stylus
+      - sugarss
+      - supports-color
+      - terser
+      - utf-8-validate
+      - vite
+      - webdriverio
+
+  '@rush-temp/microsoft-aiforscienceworkspace-rest@file:projects/microsoft-aiforscienceworkspace-rest.tgz(msw@2.7.0(@types/node@22.7.9)(typescript@5.7.3))(vite@5.4.14(@types/node@22.7.9))':
     dependencies:
       '@microsoft/api-extractor': 7.49.2(@types/node@18.19.75)
       '@types/node': 18.19.75
